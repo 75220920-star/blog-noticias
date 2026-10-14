@@ -1,0 +1,15 @@
+/vendor/
+/node_modules/
+/work/
+/outputs/
+/test-results/
+/playwright-report/
+/.lighthouseci/
+/.phpunit.result.cache
+/storage/cache/*
+/storage/logs/*
+/public/uploads/*
+!/public/uploads/.htaccess
+!/storage/cache/.gitkeep
+!/storage/logs/.gitkeep
+/config/config.php

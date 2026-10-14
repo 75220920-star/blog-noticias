@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit bootstrap="app/Core/bootstrap.php" colors="true" cacheDirectory="work/phpunit-cache">
+  <testsuites><testsuite name="Núcleo del blog"><directory>tests/unit</directory></testsuite></testsuites>
+</phpunit>
